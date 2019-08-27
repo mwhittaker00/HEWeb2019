@@ -10,7 +10,7 @@
 
 ### Node Modules
 
-Run the following command inside the `suu-css` project:
+Run the following command inside your project, or wherever you'll find the `node_modules` directory:
 
 ```
 npm install eslint gulp-eslint eslint-plugin-import eslint-restricted-globals sass-lint
