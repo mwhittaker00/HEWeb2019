@@ -1,8 +1,6 @@
 
 ## Setting Up Your Linter
 
-We use linter add-ons in our text editors to help us adhere to these style guides wherever possible. This guide is written assuming that Atom is the user's text editor because that is the common editor in our office.
-
 ### Atom Packages
 
 #### Required Packages
