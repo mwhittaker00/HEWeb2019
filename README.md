@@ -18,7 +18,6 @@ Run the following command inside the `suu-css` project:
 ```
 npm install eslint gulp-eslint eslint-plugin-import eslint-restricted-globals sass-lint gulp-phplint
 ```
-*TODO: This needs to be added to the setup process*
 
 You may need to install peer dependencies if the linter is not working properly:
 
