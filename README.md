@@ -11,10 +11,6 @@ We use linter add-ons in our text editors to help us adhere to these style guide
 - `linter-sass-lint` SCSS linter.
 - `linter-php` PHP linter.
 
-*Avoid using the auto fix features that come with the linters. They are inconsistent and often break your code before they fix your styles.*
-
-`prettier-atom` is recommended, but not required. Prettier can settle most eslint errors relating to spacing with a single command.
-
 ### Node Modules
 
 Run the following command inside the `suu-css` project:
